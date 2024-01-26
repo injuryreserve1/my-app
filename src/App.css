@@ -1,0 +1,14 @@
+.content {
+    width: 1500px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.container {
+    display: inline-block;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,11 @@
+input {
+    border: none;
+    border-bottom: 2px solid grey;
+    width: 500px;
+}
+input :active,
+:hover,
+:focus {
+    outline: 0;
+    outline-offset: 0;
+}

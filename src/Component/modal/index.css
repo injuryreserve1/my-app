@@ -1,0 +1,24 @@
+.modal {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: fixed;
+    overflow: auto;
+    left: 0;
+    top: 0;
+    backdrop-filter: blur(5px);
+}
+
+.window {
+    background-color: #e1e1e1;
+    width: 600px;
+    height: 350px;
+    margin: 15% auto;
+    display: flex;
+    border-radius: 15px;
+}
+
+.window > img {
+    width: 270px;
+    height: 330px;
+}
